@@ -1,0 +1,1 @@
+Here is my growing collection of compositor effects that i've made. They are all CC0, free to use for personal and commercial use. They all work in Godot 4.3+ and do not work in the Compatibility renderer.
