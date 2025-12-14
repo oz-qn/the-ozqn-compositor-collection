@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://3yianwsivbqg"
+path="res://.godot/imported/gamma_effect.glsl-484f2d7b553f8577201edb119c6f03a8.res"
+
+[deps]
+
+source_file="res://gamma/gamma_effect.glsl"
+dest_files=["res://.godot/imported/gamma_effect.glsl-484f2d7b553f8577201edb119c6f03a8.res"]
+
+[params]
+
